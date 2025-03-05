@@ -72,7 +72,7 @@ void sendPOSTRequest() {
 
     // Define the data payload to send
     int numberToPost = 58;
-    String payload = "{\"gesture\": " + String(numberToPost) + "}";
+    String payload = String(numberToPost);
 
     // Send the POST request
     int httpCode = http.POST(payload);
