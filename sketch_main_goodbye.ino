@@ -1,7 +1,7 @@
 /**
  **************************************************
  *
- * @file        combined_sketch.ino
+ * @file        sketch_main_goodbye.ino
  * @brief       Gesture detection with APDS-9960 and LCD display,
  *              including WiFi connectivity, HTTP POST requests,
  *              and "Goodbye" message on alternating left-right gestures.
